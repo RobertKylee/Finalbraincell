@@ -45,7 +45,7 @@ export const socialData = [
 ];
 
 export const heroData = {
-  title: "Service GSM Buzau",
+  title: "Magazin GSM Buzau Km 0",
   subtitle: "Vânzări, Cumpărări, Reparații, Reîncarcari cartele SIM",
   btnText: "Accesorii",
   btnIcon: <IoMdArrowForward />,
@@ -155,7 +155,7 @@ export const contactData = {
       },
       email: {
         icon: <FaEnvelope />,
-        address: "cotet_marius2@yahoo.com",
+        address: "cotetmarius2@yahoo.com",
       },
       link: "",
     },
@@ -172,7 +172,7 @@ export const contactData = {
       },
       email: {
         icon: <FaEnvelope />,
-        address: "cotet_marius2@yahoo.com",
+        address: "cotetmarius2@yahoo.com",
       },
       link: "",
     },
@@ -199,7 +199,7 @@ export const footerData = {
     },
     email: {
       icon: <FaEnvelope />,
-      address: "cotet_marius2@yahoo.com",
+      address: "cotetmarius2@yahoo.com",
     },
   },
   links: {
