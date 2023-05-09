@@ -53,9 +53,9 @@ export const heroData = {
 export const aboutData = {
   title: "Servicii GSM",
   subtitle1:
-    "Decodări și Deblocări. Ai uitat codul telefonului? Ai uitat contul de Google, sau codul de brand? Ai un telefon din altă țară și nu funcționează? Te putem ajuta noi! Prețurile diferă în funcție de model, brand, operațiune, țara/rețeaua de unde provine și complexitatea intervenției. Dispunem de echipamente de ultima generație si personal specializat ce vă poate ajuta intr-un timp scurt și eficient la aprox. 98% din telefoanele blocate / codate de pe piață. ",
+    "Decodări și Deblocări.  Prețurile diferă în funcție de model, brand, operațiune, țara/rețeaua de unde provine și complexitatea intervenției. Dispunem de echipamente de ultima generație si personal specializat ce vă poate ajuta intr-un timp scurt și eficient la aprox. 98% din telefoanele blocate / codate de pe piață. ",
   subtitle2:
-    "Vindem, Cumpărăm și Reparăm. Ne ocupăm cu tot ce ține de repararea, cumpărarea și vânzarea de electronice, multimedia și gadgeturi incluzând telefoane, tablete, smart watches si multe altele. De asemenea puteți achiziționa accesorii pentru telefonul, tableta sau laptopul dumneavoastră la cele mai bune prețuri. Pe lângă toate acestea mai efectuăm și reîncărcări de cartele SIM în: Orange, Vodafone și Telekom.",
+    "Vindem, Cumpărăm și Reparăm. Ne ocupăm cu tot ce ține de repararea, cumpărarea și vânzarea de electronice, multimedia și gadgeturi incluzând telefoane, tablete, smart watches si multe altele. Pe lângă toate acestea mai efectuăm și reîncărcări de cartele SIM în: Orange, Vodafone și Telekom.",
   btnText: "",
   btnIcon: <IoMdArrowForward />,
 };
