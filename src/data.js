@@ -10,11 +10,11 @@ import GalleryImg7 from "../src/img/gallery/7.png";
 import GalleryImg8 from "../src/img/gallery/8.png";
 import QuoteImg from "../src/img/testimonial/quote.svg";
 // import icons
-import { GrFacebookOption } from "react-icons/gr";
+
 import { IoMdArrowForward } from "react-icons/io";
 import { FiSend } from "react-icons/fi";
 import { FaPlay, FaMapMarkerAlt, FaPhoneAlt, FaEnvelope } from "react-icons/fa";
-import { IoLogoGoogleplus, IoIosCart } from "react-icons/io";
+import { IoLogoGoogleplus } from "react-icons/io";
 
 export const headerData = {
   logo: Logo,
@@ -32,11 +32,6 @@ export const navData = {
 };
 
 export const socialData = [
-  { href: "/", icon: <GrFacebookOption /> },
-  {
-    href: "/",
-    icon: <IoIosCart />,
-  },
   {
     href: "https://www.google.com/maps/@45.1512746,26.8174033,3a,75y,262.55h,88.85t/data=!3m6!1e1!3m4!1s-R7K2bb1WbFn8MRi_ihdzw!2e0!7i16384!8i8192",
     icon: <IoLogoGoogleplus />,
