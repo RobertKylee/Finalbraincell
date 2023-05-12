@@ -23,10 +23,10 @@ export const headerData = {
 export const navData = {
   items: [
     { href: "/", name: "" },
-    { href: "/", name: "Service" },
-    { href: "/", name: "Gsm" },
-    { href: "/", name: "Buzau" },
-    { href: "/", name: "KM 0" },
+    { href: "https://ibb.co/zb4BVtg", name: "Service" },
+    { href: "https://ibb.co/zb4BVtg", name: "Gsm" },
+    { href: "https://ibb.co/zb4BVtg", name: "Buzau" },
+    { href: "https://ibb.co/zb4BVtg", name: "KM 0" },
     { href: "/", name: "" },
   ],
 };
