@@ -41,14 +41,14 @@ export const socialData = [
 export const heroData = {
   title: "Magazin GSM Buzau Km 0",
   subtitle: "Vânzări, Cumpărări, Reparații, Reîncarcari cartele SIM",
-  btnText: "Accesorii",
+  btnText: "Vânzari Accesorii GSM",
   btnIcon: <IoMdArrowForward />,
 };
 
 export const aboutData = {
   title: "Servicii GSM",
   subtitle1:
-    "Decodări și Deblocări.  Prețurile diferă în funcție de model, brand, operațiune, țara/rețeaua de unde provine și complexitatea intervenției. Dispunem de echipamente de ultima generație si personal specializat ce vă poate ajuta intr-un timp scurt și eficient la aprox. 98% din telefoanele blocate / codate de pe piață. ",
+    "Decodări și Resoftări.  Prețurile diferă în funcție de model, brand, operațiune, țara/rețeaua de unde provine și complexitatea intervenției. Dispunem de echipamente de ultima generație si personal specializat ce vă poate ajuta intr-un timp scurt și eficient la aprox. 98% din telefoanele blocate / codate de pe piață. ",
   subtitle2:
     "Vindem, Cumpărăm și Reparăm. Ne ocupăm cu tot ce ține de repararea, cumpărarea și vânzarea de electronice, multimedia și gadgeturi incluzând telefoane, tablete, smart watches si multe altele. Pe lângă toate acestea mai efectuăm și reîncărcări de cartele SIM în: Orange, Vodafone și Telekom.",
   btnText: "",
