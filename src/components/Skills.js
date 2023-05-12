@@ -23,7 +23,7 @@ const Skills = () => {
   useEffect(() => {
     if (inView) {
       setTimeout(() => {
-        if (fullBody < 99) {
+        if (fullBody < 95) {
           setFullBody(fullBody + 1);
         }
         if (piercing < 80) {
@@ -32,7 +32,7 @@ const Skills = () => {
         if (fullColor < 75) {
           setFullColor(fullColor + 1);
         }
-        if (temporary < 95) {
+        if (temporary < 99) {
           setTemporary(temporary + 1);
         }
       }, 50);
