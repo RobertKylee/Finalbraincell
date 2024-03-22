@@ -127,9 +127,9 @@ export const testimonialData = [
   {
     quoteImg: QuoteImg,
     message:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam culpa asperiores officia natus dignissimos autem possimus molestias aperiam?",
-    name: "Douglas Hane",
-    occupation: "Tattoo Artist",
+      "-",
+    name: "-",
+    occupation: "-",
   },
 ];
 
